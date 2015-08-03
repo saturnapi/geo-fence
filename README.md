@@ -1,5 +1,5 @@
 # geo-fence
-Simple geo-fencing api
+Ever wonder how **YikYak** figures out how to do geo-fencing. Below is the script for an API that's ready for your app. Go to [SaturnAPI.com](https://saturnapi.com) and learn more about other APIs and or make a request.
 
 ```
 %%%%%%%%%%%%%%%%%%%%%%%%%% GEO-FENCING %%%%%%%%%%%%%%%%%%%%%%%%%%
